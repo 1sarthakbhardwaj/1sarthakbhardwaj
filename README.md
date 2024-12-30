@@ -27,7 +27,6 @@ Follow me on X (Twitter) for insights and updates:
 
 ## 📈 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=1sarthakbhardwaj&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=1sarthakbhardwaj&layout=compact&theme=radical" alt="Top Languages"/>
 </p>
 
