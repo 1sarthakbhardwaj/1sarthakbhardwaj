@@ -7,7 +7,7 @@ I'm an **AI Developer** and **Blogger**, passionate about building innovative AI
 
 ## 📚 My Blog
 Stay updated with my latest articles and tutorials:
-- [Dev.to Blog](https://dev.to/1sarthakbhardwaj)
+- [Dev.to Blog](https://dev.to/thenomadevel)
 
 ## 🐦 Connect with Me
 Follow me on X (Twitter) for insights and updates:  
