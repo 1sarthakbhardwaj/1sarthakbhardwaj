@@ -12,4 +12,3 @@ Follow me for updates and insights: [@thenomadevel](https://x.com/thenomadevel)
 
 ---
 Stay tuned for more updates and projects!
-"""
