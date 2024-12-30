@@ -2,10 +2,6 @@
   <img src="https://capsule-render.vercel.app/api?text=Welcome%20to%20My%20GitHub!&animation=fadeIn&type=waving&color=gradient&height=100"/>
 </p>
 
-
-content = """
-# Welcome to My GitHub! 👋
-
 Hi, I'm Sarthak Bhardwaj, an AI Developer and Blogger working on exciting projects and sharing knowledge with the community.
 
 ## 📚 My Blog
